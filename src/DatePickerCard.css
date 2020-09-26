@@ -1,0 +1,41 @@
+.container{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px ;
+    justify-content: space-between; 
+    align-items: stretch;
+}
+
+
+.datePicker{
+    
+    width: 300px;
+    padding: 10px;
+    font-size: 15px ;
+    border: none;
+    border-radius: 15px ;
+    margin-bottom: 15px;
+  
+}
+
+
+
+.input__date{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 15px ;
+    border: none;
+    box-shadow: 2px 2px 15px #e60f0f , 7px 7px 15px #0e0c72;
+
+
+}
+.input__date:hover{
+    font-size: 20px;
+    border-radius: 100px ;
+    border: none;
+
+}
+
+

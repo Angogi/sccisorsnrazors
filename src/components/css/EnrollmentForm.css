@@ -1,0 +1,28 @@
+.input_form{
+    width: 300px;
+    padding: 10px;
+    font-size: 15px !important;
+    /* color: #dddddd !important; */
+    font-weight: 800;
+    border: 1px solid #888888;
+    border-radius: 15px ;
+    margin-bottom: 15px;
+}
+
+
+.input__button{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 15px ;
+    border: none;
+    box-shadow: 2px 2px 15px #e60f0f , 7px 7px 15px #0e0c72;
+
+
+}
+.input__button:hover{
+    font-size: 20px;
+    border-radius: 100px ;
+    border: none;
+
+}
