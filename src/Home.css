@@ -1,0 +1,38 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    background: black;
+    height: 100vh;
+}
+
+.logo{
+    background: url("./images/logo6.png");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 50px;
+    margin-left: 25%;
+}
+
+.nav{
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  top: 50%;
+  right: 50%;
+}
+
+.nav > .button{
+    margin-right: 25px !important;
+    padding: 20px !important;
+    border-radius: 25px !important;
+    background: aqua;
+    text-align: center;
+    margin: 10px;
+    font-size: xx-large;
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+  

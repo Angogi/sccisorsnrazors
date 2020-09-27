@@ -12,21 +12,18 @@ function App() {
   return (
     <div className="app">
 
+
       <Router>
+      <div className="logo"></div>
+
         <nav >
           <ul className="nav">
-            <button>
-              <Link to="/offer-man">offer-man</Link>
-            </button>
-            <button>
-              <Link to="/offer-women1">Offer Women 1</Link>
-            </button>
-            <button>
-              <Link to="/offer-women2">Offer Women 2</Link>
-            </button>
-            <button>
-              <Link to="/thanks">thanks</Link>
-            </button>
+            
+            <Link className="button" to="/offer-man">offer-man</Link>
+            <Link className="button" to="/offer-women1">Offer Women 1</Link>
+            <Link className="button" to="/offer-women2">Offer Women 2</Link>
+            <Link className="button" to="/thanks">thanks</Link>
+            
           </ul>
         </nav>
         <Switch>

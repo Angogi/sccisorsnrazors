@@ -1,24 +1,16 @@
 .app{
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap-reverse;
-  justify-content: space-around;
-  width: 100%;
+  flex-direction: column;
+  
+
+  
   
   
 }
 
-.nav{
-  display: flex;
-  flex-direction: row;
-  list-style-type: none;
-  top: 50%;
-  right: 50%;
-}
 
-.nav > button{
-  margin-right: 25px;
-  
-}
+
+
+
 
 
