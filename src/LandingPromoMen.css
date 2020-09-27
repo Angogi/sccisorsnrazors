@@ -6,7 +6,7 @@
   width: 100%;
   background: url("./images/224677-P1BLPU-896.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 
@@ -64,12 +64,23 @@
     
   }
   
+  .closer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    position: relative;
+    height: 100px;
+    top: -70px;
+    background: white;
+  }
+  
   @media only screen and (max-width: 768px) {
 
     .landingPromoMen{
         
         height: auto;
-        background: #9c9c9c;
+        
         
       }
 
@@ -84,6 +95,7 @@
     .promoMan__contentCard{
         background: url(/static/media/224677-P1BLPU-896.ea5bdbbc.jpg);
         background-repeat: no-repeat;
+        background-color: #9c9c9c;
         background-size: contain;
         box-shadow: 0px 5px 10px #c801c4, 0px 10px 20px #01e8e8;
         margin-top: 0px;

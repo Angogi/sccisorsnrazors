@@ -57,13 +57,19 @@ function LandingPromoWomen2() {
 
             <JotForm />
 
+            <div>
+            <div className="closer">
+                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona</h3>
+            </div>
+
             <Map 
                 googleMapURL= {mapUrl}
-                containerElement= {<div style={{height: '400px', width: '90vw'}}></div>}
+                containerElement= {<div style={{height: '400px'}}></div>}
                 mapElement= {<div style={{height: '100%'}}></div>}
                 loadingElement= {<p>Cargando</p>}
 
             />
+            </div>
 
             <div className="extra__content"> 
               

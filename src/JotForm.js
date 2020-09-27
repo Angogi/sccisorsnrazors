@@ -21,7 +21,7 @@ function JotForm() {
 
       style={{ 
 
-          height: "100vh",
+          height: "200vh",
           width: "100%",
           position: "relative",
     
