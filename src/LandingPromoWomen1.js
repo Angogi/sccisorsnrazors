@@ -43,9 +43,9 @@ function LandingPromoWomen1() {
                 
                 
                 <div className="promo1__contentCard">
-                    <h3>Recibe tu descuento tan solo agendando tu próxima visita.</h3>
+                    <h3>Recibe tu descuento tan solo agendando tu próxima cita.</h3>
                     <br />
-                    <h3 className="second__text">Ten en cuenta que para acceder al descuento tu visita debe ser entre lunes y jueves.</h3>
+                    <h3 className="second__text">Ten en cuenta que para acceder al descuento tu cita debe ser entre lunes y jueves.</h3>
                 
                     <h5>
                         Sin Descuento €125

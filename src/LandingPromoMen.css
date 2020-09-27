@@ -67,6 +67,7 @@
   .closer{
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
     width: 100vw;
     position: relative;
@@ -100,6 +101,10 @@
         box-shadow: 0px 5px 10px #c801c4, 0px 10px 20px #01e8e8;
         margin-top: 0px;
     
+      }
+
+      .closer > h3{
+        padding: 25px
       }
   
     

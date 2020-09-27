@@ -2,6 +2,7 @@ import React from 'react';
 import LandingPromoMen from './LandingPromoMen';
 import LandingPromoWomen1 from './LandingPromoWomen1';
 import LandingPromoWomen2 from './LandingPromoWomen2';
+import Thanks from './Thanks';
 
 import { BrowserRouter as Router,  Switch,  Route,  Link} from "react-router-dom";
 
@@ -24,7 +25,7 @@ function App() {
               <Link to="/offer-women2">Offer Women 2</Link>
             </button>
             <button>
-              <Link to="/formik">Formik</Link>
+              <Link to="/thanks">thanks</Link>
             </button>
           </ul>
         </nav>
@@ -37,6 +38,9 @@ function App() {
           </Route>
           <Route path="/offer-women2">
             <LandingPromoWomen2 />
+          </Route>
+          <Route path="/thanks">
+            <Thanks />
           </Route>
           
         </Switch>

@@ -1,0 +1,61 @@
+.thanks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+
+}
+
+.thanks > .logo{
+    background: url("./images/logo6.png");
+    width: 350px;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.thanks > h3{
+    padding: 50px;
+}
+
+.thanks > h3 > span{
+    color: red;
+}
+
+.thanks > .social-media-icons{
+    display: flex;
+    flex-direction: row;
+    margin-top: -40px;
+    width: 200px;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    
+}
+.thanks > .social-media-icons > a> .MuiSvgIcon-root{
+    
+    font-size: xxx-large;
+    color: black;
+    
+}
+
+.thanks > .whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    z-index:100;
+  }
+
+  .thanks > .whatsapp > .MuiSvgIcon-root{
+    font-size: xxx-large;
+    top: 4px;
+    position: relative;
+  }

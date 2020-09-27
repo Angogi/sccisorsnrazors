@@ -1,6 +1,6 @@
 
 import React from 'react';
-import JotformEmbed from 'react-jotform-embed';
+
 
 
 function JotForm() {
