@@ -2,17 +2,18 @@
     display: flex;
     flex-direction: column;
     background: black;
-    height: 100vh;
+    
+    align-items: center;
 }
 
-.logo{
+.home >.logo{
     background: url("./images/logo6.png");
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 50px;
-    margin-left: 25%;
+    
 }
 
 .nav{

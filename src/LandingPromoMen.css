@@ -26,17 +26,14 @@
   .promoMan__contentCard{
     margin-top: 10px;
     padding: 5px;
-    color: #ffffff;
+    color: black;
     font-size: 20px;
     text-align: center;
     margin-top: 50px;
 
   }
   
-  .promoMan__contentCard > .second__text{
-    color: #ffffff;
-  }
-
+  
    
   .textCard > h1{
     font-size: 35px;
@@ -76,12 +73,18 @@
     background: white;
   }
   
+ 
   @media only screen and (max-width: 768px) {
 
     .landingPromoMen{
         
-        height: auto;
+       height: auto;
+        background-size: 170%;
         
+      }
+    .landingPromoMen > iframe{
+        
+       height: 130vh !important;
         
       }
 
@@ -96,7 +99,6 @@
     .promoMan__contentCard{
         background: url(/static/media/224677-P1BLPU-896.ea5bdbbc.jpg);
         background-repeat: no-repeat;
-        background-color: #9c9c9c;
         background-size: contain;
         box-shadow: 0px 5px 10px #c801c4, 0px 10px 20px #01e8e8;
         margin-top: 0px;

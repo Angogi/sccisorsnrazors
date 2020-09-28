@@ -1,18 +1,18 @@
 import React from 'react';
-import { BrowserRouter as Router,  Switch,  Route,  Link} from "react-router-dom";
+import { BrowserRouter as Router,  Switch,  Route, Redirect , Link} from "react-router-dom";
 
 import  "./Home.css"
 
 function Home() {
     return (
-        <Router>
+        
         <div className="home">
 
             <div className="logo"></div>
             
             <nav>
                 <ul className="nav">
-                
+                    
                     <Link className="button" to="/offer-man">offer-man</Link>
                     <Link className="button" to="/offer-women1">Offer Women 1</Link>
                     <Link className="button" to="/offer-women2">Offer Women 2</Link>
@@ -22,7 +22,7 @@ function Home() {
             </nav>
             
         </div>
-        </Router>
+       
     )
 }
 

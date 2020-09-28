@@ -48,7 +48,7 @@ function LandingPromoMen() {
 
                     <h3>Recibe tu descuento al reservar tu próxima cita.</h3>
                     <br />
-                    <h3 className="second__text">Ten en cuenta que para acceder al descuento, tu cita debe ser entre lunes y jueves.</h3>
+                    <h3 >Ten en cuenta que para acceder al descuento, tu cita debe ser entre lunes y jueves.</h3>
                     <br />
                     <br />
 

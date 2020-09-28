@@ -15,10 +15,10 @@
 
 .thanks > .logo{
     background: url("./images/logo6.png");
-    width: 350px;
-    height: 50vh;
     background-repeat: no-repeat;
     background-size: contain;
+    width: 250px;
+    height: 250px;
 }
 
 .thanks > h3{
@@ -92,12 +92,7 @@
 
   @media only screen and (max-width: 768px){
 
-    .thanks > .logo{
-        background-size: cover;
+    .thanks >.social-media-icons> .whatsapp{
+        right: 10px;
     }
-
-    .thanks > .whatsapp{
-        right: 15px;
-    }
-
   }
