@@ -21,7 +21,7 @@ function App() {
                 <Home />
             </Route>
           
-
+          <Switch>
           <Route path="/offer-man">
             <LandingPromoMen />
           </Route>
@@ -37,6 +37,8 @@ function App() {
           <Route path="/thanks">
             <Thanks />
           </Route>
+
+          </Switch>
 
           
           
