@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sccisorsnrazors/static/css/main.f0c84506.chunk.css",
-    "main.js": "/sccisorsnrazors/static/js/main.abfec424.chunk.js",
-    "main.js.map": "/sccisorsnrazors/static/js/main.abfec424.chunk.js.map",
+    "main.css": "/sccisorsnrazors/static/css/main.4308f363.chunk.css",
+    "main.js": "/sccisorsnrazors/static/js/main.c5460be6.chunk.js",
+    "main.js.map": "/sccisorsnrazors/static/js/main.c5460be6.chunk.js.map",
     "runtime-main.js": "/sccisorsnrazors/static/js/runtime-main.134cd1bf.js",
     "runtime-main.js.map": "/sccisorsnrazors/static/js/runtime-main.134cd1bf.js.map",
-    "static/js/2.0b55b534.chunk.js": "/sccisorsnrazors/static/js/2.0b55b534.chunk.js",
-    "static/js/2.0b55b534.chunk.js.map": "/sccisorsnrazors/static/js/2.0b55b534.chunk.js.map",
+    "static/js/2.f5575369.chunk.js": "/sccisorsnrazors/static/js/2.f5575369.chunk.js",
+    "static/js/2.f5575369.chunk.js.map": "/sccisorsnrazors/static/js/2.f5575369.chunk.js.map",
     "index.html": "/sccisorsnrazors/index.html",
-    "precache-manifest.c91362e2cd56b91cbac9f424592a4165.js": "/sccisorsnrazors/precache-manifest.c91362e2cd56b91cbac9f424592a4165.js",
+    "precache-manifest.9ac882216da0ed36d5a443dfd72af8a5.js": "/sccisorsnrazors/precache-manifest.9ac882216da0ed36d5a443dfd72af8a5.js",
     "service-worker.js": "/sccisorsnrazors/service-worker.js",
-    "static/css/main.f0c84506.chunk.css.map": "/sccisorsnrazors/static/css/main.f0c84506.chunk.css.map",
-    "static/js/2.0b55b534.chunk.js.LICENSE.txt": "/sccisorsnrazors/static/js/2.0b55b534.chunk.js.LICENSE.txt",
+    "static/css/main.4308f363.chunk.css.map": "/sccisorsnrazors/static/css/main.4308f363.chunk.css.map",
+    "static/js/2.f5575369.chunk.js.LICENSE.txt": "/sccisorsnrazors/static/js/2.f5575369.chunk.js.LICENSE.txt",
     "static/media/LandingPromoMen.css": "/sccisorsnrazors/static/media/224677-P1BLPU-896.ea5bdbbc.jpg",
     "static/media/LandingPromoWomen1.css": "/sccisorsnrazors/static/media/balayage-3.12e7196f.jpg",
-    "static/media/Thanks.css": "/sccisorsnrazors/static/media/logo6.19461515.png",
+    "static/media/Home.css": "/sccisorsnrazors/static/media/logo6.19461515.png",
     "static/media/LandingPromoWomen2.css": "/sccisorsnrazors/static/media/masaje_facial.1a305d0e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.134cd1bf.js",
-    "static/js/2.0b55b534.chunk.js",
-    "static/css/main.f0c84506.chunk.css",
-    "static/js/main.abfec424.chunk.js"
+    "static/js/2.f5575369.chunk.js",
+    "static/css/main.4308f363.chunk.css",
+    "static/js/main.c5460be6.chunk.js"
   ]
 }
