@@ -65,7 +65,7 @@ function LandingPromoWomen1() {
 
             <div className="map">
             <div className="closer">
-                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona</h3>
+                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona <br/>Fijo (34)935149968<br/> Movil 722838161 </h3>
             </div>
 
             <Map 

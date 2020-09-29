@@ -57,7 +57,12 @@
 
 .extra__content{
   display: none;
-  
+  display: flex;
+  text-align: center;  
+}
+
+.extra__content > h3{
+
 }
   
 @media only screen and (max-width: 768px) {
@@ -91,6 +96,12 @@
     height: 300px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+    
+    
+
 
     
   }

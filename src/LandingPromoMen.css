@@ -66,7 +66,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    width: 100vw;
+    width: 100vw; 
     position: relative;
     height: 100px;
     top: -70px;
@@ -103,6 +103,13 @@
         box-shadow: 0px 5px 10px #c801c4, 0px 10px 20px #01e8e8;
         margin-top: 0px;
     
+      }
+
+      .promoMan__contentCard > h3{
+        color: white;
+      }
+      .promoMan__contentCard > h5{
+        color: white;
       }
 
       .closer > h3{

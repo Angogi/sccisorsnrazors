@@ -29,7 +29,7 @@
     color: red;
 }
 
-.thanks > .social-media-icons{
+.thanks > .social-media-icons{ 
     display: flex;
     flex-direction: row;
     margin-top: -40px;

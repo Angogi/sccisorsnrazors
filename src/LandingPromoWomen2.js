@@ -59,7 +59,7 @@ function LandingPromoWomen2() {
 
             <div>
             <div className="closer">
-                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona</h3>
+                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona.<br/>Fijo (34)935149968<br/> Movil 722838161 </h3>
             </div>
 
             <Map 
@@ -72,7 +72,7 @@ function LandingPromoWomen2() {
             </div>
 
             <div className="extra__content"> 
-              
+                <h3>Scissors<br/> N <br/>Razors <br/>¡Cuida de ti!</h3>
             </div>
 
             

@@ -49,7 +49,7 @@ function LandingPromoMen() {
                     <h3>Recibe tu descuento al reservar tu próxima cita.</h3>
                     <br />
                     <h3 >Ten en cuenta que para acceder al descuento, tu cita debe ser entre lunes y jueves.</h3>
-                    <br />
+                    <br /> 
                     <br />
 
                   
@@ -69,7 +69,7 @@ function LandingPromoMen() {
             <JotForm />
             <div>
             <div className="closer">
-                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona</h3>
+                <h3> Estamos en Carrer de la Diputació, Número 50, 08015 Barcelona <br/>Fijo (34)935149968<br/> Movil 722838161 </h3>
             </div>
 
             <Map 
